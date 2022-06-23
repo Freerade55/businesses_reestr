@@ -1,0 +1,117 @@
+
+
+
+
+
+
+
+
+
+
+
+
+.org-type-menu {
+    
+    position: fixed;
+    display: none;
+    list-style: none;
+    background: rgb(248, 247, 247);
+    border: 2px solid #1019a5;
+    border-radius: 10px;
+    width: auto;
+    padding: 1%;
+    margin-left: 50%;
+    margin-top: 10%;
+
+  }
+      
+
+
+  .org-type-menu.active {
+    display: block;
+}
+
+
+
+
+
+
+.selectAll {
+  display: inline-block;
+ 
+}
+
+.cancelAll {
+  display: inline-block;
+ 
+
+}
+
+.dat {
+  display: inline-block;
+
+
+}
+
+
+
+.radioMenu{
+    
+  
+  background: rgb(253, 254, 255);
+  border: 0.5px solid #070000;
+  border-radius: 5px;
+  width: 100%;
+  padding: 20%;
+
+}
+
+
+.inn {
+  margin-top: 10%;
+  display: inline-block;
+ 
+}
+
+
+.input {
+  display: inline-block;
+ 
+
+}
+
+
+
+.okved {
+  margin-top: 10%;
+  display: inline-block;
+ 
+ 
+}
+
+
+.input2 {
+  display: inline-block;
+ 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

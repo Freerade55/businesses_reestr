@@ -1,0 +1,57 @@
+
+
+
+
+
+.left-click-menu {
+    
+    position: fixed;
+    display: none;
+    list-style: none;
+    background: white;
+    border: 2px solid #1019a5;
+    border-radius: 10px;
+    width: 300px;
+    padding: 1%;
+    margin-left: 50%;
+    margin-top: 10%;
+
+  }
+      
+
+
+  .left-click-menu.active {
+    display: block;
+}
+
+
+
+
+
+.inn {
+  display: inline-block;
+ 
+}
+
+.input {
+  display: inline-block;
+ 
+
+}
+
+
+.pechat {
+  margin: 8%;
+
+  display: inline-block;
+
+
+}
+
+.otmena {
+  margin: 8%;
+
+  display: inline-block;
+}
+
+
